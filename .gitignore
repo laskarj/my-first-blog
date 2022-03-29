@@ -4,3 +4,5 @@ myvevn
 db.sqlite3
 /static
 .DS_Store
+.gitignore
+.gitignore.swp
